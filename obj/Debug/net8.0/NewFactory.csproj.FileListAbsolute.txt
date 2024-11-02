@@ -1,0 +1,14 @@
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/bin/Debug/net8.0/NewFactory
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/bin/Debug/net8.0/NewFactory.deps.json
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/bin/Debug/net8.0/NewFactory.runtimeconfig.json
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/bin/Debug/net8.0/NewFactory.dll
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/bin/Debug/net8.0/NewFactory.pdb
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.AssemblyInfoInputs.cache
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.AssemblyInfo.cs
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.csproj.CoreCompileInputs.cache
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.dll
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/refint/NewFactory.dll
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.pdb
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/NewFactory.genruntimeconfig.cache
+/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/Debug/net8.0/ref/NewFactory.dll
