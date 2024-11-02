@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sZ9Kxp+ghXM=",
+  "dgSpecHash": "1Y3qPjwnKf0pukMNvWz2kKIM7Ac32EjBVWHGsGwwQJogp2V2E1WWW885Fy+7gEyoU4s4ZHkXA1h1WPi7JmfkUQ==",
   "success": true,
-  "projectFilePath": "/Users/davidmeshterhazy/Programming_CSharp/NewFactory/NewFactory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/code_wizard/NewFactory/NewFactory.csproj",
+  "expectedPackageFiles": [
+    "/home/code_wizard/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
   "logs": []
 }

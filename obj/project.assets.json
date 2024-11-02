@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/davidmeshterhazy/.nuget/packages/": {}
+    "/home/code_wizard/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davidmeshterhazy/Programming_CSharp/NewFactory/NewFactory.csproj",
+      "projectUniqueName": "/home/code_wizard/NewFactory/NewFactory.csproj",
       "projectName": "NewFactory",
-      "projectPath": "/Users/davidmeshterhazy/Programming_CSharp/NewFactory/NewFactory.csproj",
-      "packagesPath": "/Users/davidmeshterhazy/.nuget/packages/",
-      "outputPath": "/Users/davidmeshterhazy/Programming_CSharp/NewFactory/obj/",
+      "projectPath": "/home/code_wizard/NewFactory/NewFactory.csproj",
+      "packagesPath": "/home/code_wizard/.nuget/packages/",
+      "outputPath": "/home/code_wizard/NewFactory/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/davidmeshterhazy/.nuget/NuGet/NuGet.Config"
+        "/home/code_wizard/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,12 +54,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.10, 8.0.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

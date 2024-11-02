@@ -7,14 +7,20 @@ namespace Calculator
     {
         static void Main()
         {
+            Console.Write("Введите операцию: ");
+            char operation = Convert.ToChar(Console.ReadLine());
+
             Console.Write("Введите первое число: ");
             double var1 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Введите второе число: ");
+            if (operation=='/') {
+                Console.Write("Введите второе число(не ноль): ");
+            } else {
+                Console.Write("Введите второе число: ");
+            }
+            
             double var2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Введите операцию: ");
-            char operation = Convert.ToChar(Console.ReadLine());
 
             double result = 0;
 
